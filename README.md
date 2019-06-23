@@ -1,4 +1,5 @@
 # Single-Page Design: Just Guitar
+Live: https://dl3238.github.io/Just-Guitar-Homepage/
 
 ### What is this page about?
 Just Guitar is an online community for all guitar lovers. This single-page project has modeled the homepage of this community.
