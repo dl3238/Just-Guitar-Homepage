@@ -1,0 +1,104 @@
+#navbar{
+  background-color:#fff;
+  margin-top: 20px;
+}
+.nav{
+  padding-top: 30px;
+}
+ul{
+  padding: 20px;
+}
+.jumbotron{
+  background-image:url(https://images.unsplash.com/photo-1525725296312-37c06d2338ba?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=fd75d6048d39164ac2b15daa88387c74);
+  background-size:cover;
+  padding: 100px;
+  border-radius: 1rem;
+  color:white;
+  margin-left:-15px;
+  margin-right:-15px;
+  font-family:'Special Elite';
+}
+#header{
+  font-family:'Monoton';font-size:60px;
+}
+#intropg{
+  margin-top:30px;
+}
+
+#tab-container{
+  color:white;
+  padding: 25px;
+  border-radius:1rem;
+  background-image:url(https://images.unsplash.com/photo-1519399846241-c2c694422644?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=14f77e2a79213d66bd1860633412a088);
+  background-size:cover;
+}
+#toptabs{
+  margin-left: 10px;
+}
+h4{
+  margin: 20px;
+}
+#newtabs{
+  margin-left:15px;
+}
+#video-container{
+  margin-top:30px;
+  margin-left:px;
+ color:white;
+  border-radius:1rem;
+  background-image:url(https://images.unsplash.com/photo-1519120693210-d47b03b31d77?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=b808f5821569d3d42862e7f80ddde729);
+  background-size:cover;
+  font-family:'Cinzel Decorative';
+  
+}
+#video-title{
+  border-radius:1rem;
+  padding:30px;
+  margin-left:20px;
+  margin:20px;
+  margin-top:60px;
+}
+#videos{
+  font-size:80px;
+  margin-top:80px;
+}
+#youtubevideo{
+  margin:20px;
+  margin-left:25px;
+  border-radius:1rem;
+}
+#tabimage{
+  background-image:url(https://images.unsplash.com/photo-1520167112707-56e25f2d7d6e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e5cf97881b768bfb4fbc673e53958fd3)
+}
+#event-container{
+  margin-top:20px;
+}
+#event{
+  margin-top:40px;
+  font-family:'Ultra';
+  font-size:60px;
+  margin-bottom:20px;
+}
+#footer{
+  background-color:#eee;
+  padding:5px;
+}
+#text-under-header{
+  font-family: 'Great Vibes'; font-size:30px;
+}
+#tab-title{
+  padding:40px;
+  font-family:'Alice';
+}
+
+#tab-title-2{
+  font-family:'Great Vibes';
+  font-size:100px;
+  padding:20px;
+}
+.nav-link{
+  font-family:'Alice';
+  font-size:20px;
+  margin-top:45px;
+}
+
