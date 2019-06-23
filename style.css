@@ -9,7 +9,7 @@ ul{
   padding: 20px;
 }
 .jumbotron{
-  background-image:url(https://images.unsplash.com/photo-1525725296312-37c06d2338ba?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=fd75d6048d39164ac2b15daa88387c74);
+  background-image: url('https://images.unsplash.com/photo-1525725296312-37c06d2338ba?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=fd75d6048d39164ac2b15daa88387c74');
   background-size:cover;
   padding: 100px;
   border-radius: 1rem;
@@ -29,7 +29,7 @@ ul{
   color:white;
   padding: 25px;
   border-radius:1rem;
-  background-image:url(https://images.unsplash.com/photo-1519399846241-c2c694422644?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=14f77e2a79213d66bd1860633412a088);
+  background-image: url('https://images.unsplash.com/photo-1519399846241-c2c694422644?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=14f77e2a79213d66bd1860633412a088');
   background-size:cover;
 }
 #toptabs{
@@ -46,10 +46,10 @@ h4{
   margin-left:px;
  color:white;
   border-radius:1rem;
-  background-image:url(https://images.unsplash.com/photo-1519120693210-d47b03b31d77?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=b808f5821569d3d42862e7f80ddde729);
+  background-image: url('https://images.unsplash.com/photo-1519120693210-d47b03b31d77?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=b808f5821569d3d42862e7f80ddde729');
   background-size:cover;
   font-family:'Cinzel Decorative';
-  
+
 }
 #video-title{
   border-radius:1rem;
@@ -68,7 +68,7 @@ h4{
   border-radius:1rem;
 }
 #tabimage{
-  background-image:url(https://images.unsplash.com/photo-1520167112707-56e25f2d7d6e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e5cf97881b768bfb4fbc673e53958fd3)
+  background-image: url('https://images.unsplash.com/photo-1520167112707-56e25f2d7d6e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e5cf97881b768bfb4fbc673e53958fd3');
 }
 #event-container{
   margin-top:20px;
@@ -101,4 +101,3 @@ h4{
   font-size:20px;
   margin-top:45px;
 }
-
